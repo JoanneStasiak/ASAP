@@ -13,5 +13,7 @@ In these tasks, we manipulate emotional arousal to examine its effects on motor 
 
 These tasks are led by the LEAP Neuro Lab (PI: Dr. Regina Lapate), in collaboration with the Action Lab (PI: Dr. Scott Grafton).
 
+Cite the code: [![DOI](https://zenodo.org/badge/537175310.svg)](https://zenodo.org/badge/latestdoi/537175310)
+
 
 ![Asap!](https://github.com/LEAPNeuroLab/ASAP/blob/main/Active%20Escape/TaskDesign/asapImg.png "Asap logo")
